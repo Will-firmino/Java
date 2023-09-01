@@ -1,5 +1,3 @@
-# Modulo-I
-
 ##  🚀 Editor de Plugins
 
 - Live server => Cria um mini servidor na máquina, aonde tudo que for editado no código será renderizado automaticamente na página web do browser.
